@@ -1,0 +1,11 @@
+name: NexusTech
+version: 1.0.0
+main: tech.nexus.NexusTech
+api-version: '1.20'
+authors: [YourName]
+depend: [Slimefun]
+description: Advanced Industrial Expansion
+commands:
+  nexustech:
+    description: Main command
+    aliases: [nt]
